@@ -1,6 +1,6 @@
 👨‍💻 Atmadip Bakshi || Vellore Institute of Technology
 
-🚀 About Me
+
 Hey there! I'm Atmadip Bakshi, a Computer Science student at VIT-AP University, passionate about Artificial Intelligence, Flutter development, and full-stack web development.
 
 🔥 What I Do
