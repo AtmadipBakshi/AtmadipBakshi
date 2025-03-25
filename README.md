@@ -18,6 +18,6 @@
 💻 Java, Python, C, C++, Dart | 🔍 AI/ML: TensorFlow, OpenCV | 🌐 React.js | ☁ Google Cloud
 
 📩 Connect:
-📧 atmadipbakshi04@gmail.com | LinkedIn
+📧 atmadipbakshi04@gmail.com | atmadip.23bce7175@vitapstudent.ac.in
 
 Always open to collaborations & tech discussions! 🚀
